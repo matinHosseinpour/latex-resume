@@ -5,7 +5,7 @@
 
 ### How does it look?
 
-<img src="https://github.com/matinHosseinpour/latex-resume/tree/main/images/example_cv.png" width="425"/>
+<img src="https://github.com/matinHosseinpour/latex-resume/main/images/example_cv.png" width="425"/>
 
 ### How to use it?
 - With minimum effort, you can use the [CV.tex](https://github.com/muratcankaracabey/latex_cv/blob/master/CV.tex) as it is provided with the high level functions such as ```\datedexperience```, ```\explanation```, ```\explanationdetail``` to add elements to your CV. You can create skill elements with ```\newcommand{\skillname{\createskill{<Skill Category>}{<explanation>}}}``` and finally create the list of skills with ```\createskills{<comma seperated skills list>}```. 
